@@ -78,7 +78,7 @@
             document.execCommand("copy");
 
             /* Alert the copied text */
-            alert("Copied Ethereum wallet: " + copyText.value);
+            alert("Copied Wallet Address: " + copyText.value);
         }
     </script>
 
